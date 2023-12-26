@@ -1,6 +1,6 @@
 # iamrich
 
-A new Flutter project.
+A new Flutter project - following the [I am Rich](https://github.com/londonappbrewery/Flutter-Course-Resources?tab=readme-ov-file#section-3-i-am-rich---how-to-create-flutter-apps-from-scratch) from the Flutter Bootcamp with Dart.
 
 ## Getting Started
 
